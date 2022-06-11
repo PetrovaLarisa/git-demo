@@ -2,19 +2,13 @@ sword and spear
 wall of shields
 standing strong
 <<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> parent of d908468 (add second couplet)
 on this their chosen battle field
 
 Form the lines
 Shield by shield
-<<<<<<< HEAD
 Side by side
 We're marching into destiny
 ------------------------------------
 =======
 on this their chosen battle field
 >>>>>>> d9084682ea1ab3ed818264d7ffbbe9053fc1d8c5
-=======
->>>>>>> parent of d908468 (add second couplet)
